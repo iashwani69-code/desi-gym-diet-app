@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.0-7A1538?style=for-the-badge"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.1-7A1538?style=for-the-badge"></a>
   <img alt="Platform" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Languages" src="https://img.shields.io/badge/English%20%2B%20Hindi-D4AF5F?style=for-the-badge">
   <img alt="Price" src="https://img.shields.io/badge/price-free-0B0B0E?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk"><img alt="Download APK v1.0.0" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.0%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.1" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.1%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
 </p>
-<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk"><b>⬇ Download DesiGymDiet-v1.0.0.apk</b></a></p>
+<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><b>⬇ Download Desi Gym Diet v1.0.1 (APK)</b></a></p>
 <p align="center">
-  <sub>DesiGymDiet-v1.0.0.apk · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
+  <sub>v1.0.1 · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
 </p>
 
 ---
@@ -65,7 +65,7 @@ It works out your calories and protein, builds the plan around them and keeps yo
 
 ## How to install on Android
 
-1. On your Android phone, open **[Download APK](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk)**. Chrome downloads `DesiGymDiet-v1.0.0.apk`.
+1. On your Android phone, open **[Download APK](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)**. Chrome downloads `DesiGymDiet.apk`.
 2. Tap the downloaded file (or open it from **Files → Downloads**).
 3. If Android asks, allow **Install unknown apps** for Chrome or your Files app. This is a one-time permission.
 4. Tap **Install**, then **Open**.
@@ -79,13 +79,14 @@ It works out your calories and protein, builds the plan around them and keeps yo
 
 - Android **7.0 (Nougat) or newer**, on any modern phone (arm64 or armeabi-v7a)
 - About 150 MB of free space
-- No account needed to try it out
+- A free account (just your email and a password)
+- Internet for sign-up and sync; food search, logging, water and weight also work offline
 
 ## Current version: what to expect
 
-v1.0.0 runs fully **on your phone** (preview mode). Your plan, food log and progress are saved on the device.
-**Online account sync is coming soon**; until then a small “Preview mode” label shows at the top, and the AI assistant
-is not switched on yet.
+**v1.0.1: login & cloud sync are live.** Create an account with your email and a password, and your profile, goals,
+food log, water and weight are saved to your account. After signing up you'll get a confirmation email: open the link
+on your phone (check Spam if you don't see it), then log in. The AI assistant is coming soon.
 
 ## Health disclaimer
 
@@ -95,8 +96,9 @@ any other medical condition or an eating disorder, talk to a doctor or a registe
 
 ## Privacy
 
-In v1.0.0 your data stays on your phone. There's no account, no ads and no tracking, and nothing is sold.
-You can export or delete your data from **Settings** at any time.
+Your data is private to your account. Every table in the database is locked with Row Level Security, so each
+account can only ever read and change its own data, and that was tested with two separate accounts before release.
+No ads, no tracking, and nothing is sold. You can export your data or permanently delete your account from **Settings** at any time.
 
 ## Contact
 
