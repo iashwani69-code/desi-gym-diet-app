@@ -15,9 +15,10 @@
   <img alt="Price" src="https://img.shields.io/badge/price-free-0B0B0E?style=for-the-badge">
 </p>
 
-<h2 align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk">⬇&nbsp; Download APK (v1.0.0)</a>
-</h2>
+<p align="center">
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk"><img alt="Download APK v1.0.0" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.0%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+</p>
+<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet-v1.0.0.apk"><b>⬇ Download DesiGymDiet-v1.0.0.apk</b></a></p>
 <p align="center">
   <sub>DesiGymDiet-v1.0.0.apk · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
 </p>
