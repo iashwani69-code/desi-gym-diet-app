@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.1-7A1538?style=for-the-badge"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.2-7A1538?style=for-the-badge"></a>
   <img alt="Platform" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Languages" src="https://img.shields.io/badge/English%20%2B%20Hindi-D4AF5F?style=for-the-badge">
   <img alt="Price" src="https://img.shields.io/badge/price-free-0B0B0E?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.1" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.1%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.2" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.2%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
 </p>
-<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><b>⬇ Download Desi Gym Diet v1.0.1 (APK)</b></a></p>
+<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><b>⬇ Download Desi Gym Diet v1.0.2 (APK)</b></a></p>
 <p align="center">
-  <sub>v1.0.1 · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
+  <sub>v1.0.2 · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
 </p>
 
 ---
