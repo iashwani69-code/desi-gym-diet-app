@@ -5,66 +5,24 @@
 <p align="center">
   <img src="assets/icon.png" width="96" alt="Desi Gym Diet icon"><br>
   <b>DESI GYM DIET™</b><br>
-  <i>Indian gym diet, done right. Real desi food, real macros, in English and हिंदी.</i>
+  <i>Gym diet planning with real Indian food: personal calorie and protein targets, desi meal plans and a food log, in English and हिंदी.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.4-7A1538?style=for-the-badge"></a>
-  <img alt="Platform" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img alt="Languages" src="https://img.shields.io/badge/English%20%2B%20Hindi-D4AF5F?style=for-the-badge">
-  <img alt="Price" src="https://img.shields.io/badge/price-free-0B0B0E?style=for-the-badge">
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version 1.0.4" src="https://img.shields.io/badge/version-1.0.4-7A1538?style=for-the-badge"></a>
+  <img alt="Android 7.0+" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img alt="iPhone web app" src="https://img.shields.io/badge/iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="English + Hindi" src="https://img.shields.io/badge/English%20%2B%20Hindi-D4AF5F?style=for-the-badge">
+  <img alt="Free" src="https://img.shields.io/badge/price-free-0B0B0E?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.4" height="60" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.3%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
-</p>
-<p align="center"><a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><b>⬇ Download Desi Gym Diet v1.0.4 (APK)</b></a></p>
-<p align="center">
-  <sub>v1.0.4 · 86 MB · Android 7.0 or newer · <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest">all releases</a></sub>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.4" height="56" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.4%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+  &nbsp;
+  <a href="https://dgd-app.pages.dev/"><img alt="Open the iPhone web app" height="56" src="https://img.shields.io/badge/Open%20on%20iPhone-dgd--app.pages.dev-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
 </p>
 
 ---
-
-## iPhone / iOS (web app)
-
-<p align="center">
-  <a href="https://desi-gym-diet.pages.dev/"><img alt="Open on iPhone" height="60" src="https://img.shields.io/badge/Open%20on%20iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
-</p>
-
-Desi Gym Diet now works on iPhone too, free, with no App Store needed: **[desi-gym-diet.pages.dev](https://desi-gym-diet.pages.dev/)**
-
-1. Open **[the link](https://desi-gym-diet.pages.dev/)** in **Safari**.
-2. Tap **Share** (the square with the arrow).
-3. Tap **Add to Home Screen**.
-4. Open **Desi Gym Diet** from the new icon on your home screen.
-5. **Sign up**, or **log in with the same account you use on Android**. Your data syncs.
-
-<p align="center"><img src="assets/iphone_home.jpg" width="240" alt="Desi Gym Diet on iPhone"><br><sub>Home screen on iPhone</sub></p>
-
-> **On Android?** Keep using the APK above; the Android install steps are below.
-
----
-
-## Why Desi Gym Diet
-
-Most diet apps are built around foods you don't eat. **Desi Gym Diet** plans your gym diet with the food
-already in an Indian kitchen: dal, roti, paneer, rajma-chawal, poha, curd, eggs, chicken and more.
-It works out your calories and protein, builds the plan around them and keeps you on track.
-
-## Features
-
-- **Personal targets.** Calories, protein, carbs, fat, fibre and water, calculated from your body, goal and activity.
-  Unsafe targets are refused, and you get safe alternatives to pick from.
-- **Indian meal plans.** A weekly plan for 2–6 meals a day: veg, eggetarian, non-veg or vegan, within your budget and cooking time.
-  Swap any meal for a safe alternative in one tap.
-- **Allergy-safe by design.** Every plan, swap and grocery list is checked against your allergies.
-  It also catches local names like “groundnut”, “jhinga” and “maida”.
-- **Macro rings and food log.** See today's calories, protein, carbs and fat at a glance. Log food, water and weight.
-- **Progress.** 7, 30 and 90-day trends for calories, protein, water and weight, plus streaks.
-- **Food search in English, Hindi and Hinglish.** 140 foods and 346 Indian recipes, searchable offline (recipe nutrition is estimated from its ingredients).
-- **Grocery list and pantry.** Built from your plan, minus what you already have.
-- **English + हिंदी.** The whole app in both languages, switchable any time.
-- **Premium dark design.** Black, maroon and gold, made to be easy on the eyes in the gym.
 
 ## Screenshots
 
@@ -81,52 +39,98 @@ It works out your calories and protein, builds the plan around them and keeps yo
     <td align="center"><img src="screenshots/allergy-warning.jpg" width="200"><br><sub>Allergy warning</sub></td>
     <td align="center"><img src="screenshots/home-hindi.jpg" width="200"><br><sub>हिंदी में</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="assets/iphone_home.jpg" width="200"><br><sub>iPhone web app</sub></td>
+    <td align="center"><img src="screenshots/ai-assistant.jpg" width="200"><br><sub>AI assistant (Hinglish)</sub></td>
+    <td align="center"><img src="screenshots/web-reminders.jpg" width="200"><br><sub>Daily reminders (web)</sub></td>
+    <td></td>
+  </tr>
 </table>
 
-## How to install on Android
+## Download for Android
 
-1. On your Android phone, open **[Download APK](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)**. Chrome downloads `DesiGymDiet.apk`.
+**[⬇ Download DesiGymDiet.apk (v1.0.4, 86 MB)](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)** · Android 7.0 or newer · [all releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases)
+
+1. Open the download link on your Android phone. Chrome saves `DesiGymDiet.apk`.
 2. Tap the downloaded file (or open it from **Files → Downloads**).
-3. If Android asks, allow **Install unknown apps** for Chrome or your Files app. This is a one-time permission.
+3. If Android asks, allow **Install unknown apps** for Chrome or your Files app (one-time).
 4. Tap **Install**, then **Open**.
 
-> **“Play Protect” warning?** That's normal for apps installed from outside the Play Store. It appears because the app
-> isn't on the Play Store yet, not because anything is wrong. Tap **More details → Install anyway**.
+**Tips**
 
-**Updating:** download the newer APK from [Releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest) and install it over the old one. Your data stays.
+- **Play Protect warning?** It appears for apps installed from outside the Play Store. Tap **More details → Install anyway**.
+- **Updating:** install the newer APK over the old one. No need to uninstall; your data stays in your account.
+- Each release lists the APK's SHA-256 checksum if you want to verify the file.
 
-## Requirements
+## iPhone (web app)
 
-- Android **7.0 (Nougat) or newer**, on any modern phone (arm64 or armeabi-v7a)
-- About 150 MB of free space
-- A free account (just your email and a password)
-- Internet for sign-up and sync; food search, logging, water and weight also work offline
+No App Store needed. Open **[dgd-app.pages.dev](https://dgd-app.pages.dev/)**:
 
-## Current version: what to expect
+1. Open **[the link](https://dgd-app.pages.dev/)** in **Safari**.
+2. Tap **Share** (the square with the arrow).
+3. Tap **Add to Home Screen**.
+4. Open **Desi Gym Diet** from the new icon on your home screen.
+5. **Sign up**, or **log in with the same account you use on Android**. Your data syncs.
 
-**v1.0.1: login & cloud sync are live.** Create an account with your email and a password, and your profile, goals,
-food log, water and weight are saved to your account. After signing up you'll get a confirmation email: open the link
-on your phone (check Spam if you don't see it), then log in. The AI assistant is in the Assistant tab (answers are nutrition estimates, not medical advice).
+The web app also works in any modern browser on a laptop or Android phone.
+
+## Features
+
+- **Personal targets.** Calories, protein, carbs, fat, fibre and water, calculated from your body, goal and activity
+  (Mifflin-St Jeor). Unsafe targets are refused, and you get safe alternatives to pick from.
+- **Indian meal plans.** A weekly plan for 2–6 meals a day: veg, eggetarian, non-veg or vegan, within your budget and
+  cooking time. Swap any meal in one tap.
+- **Allergy-safe by design.** Plans, swaps and grocery lists are checked against your allergies and intolerances,
+  including local names like “groundnut”, “jhinga” and “maida”.
+- **Food log and macro rings.** Today's calories, protein, carbs and fat at a glance. Log food, water and weight.
+- **Food search in English, Hindi and Hinglish.** 140 foods and 346 Indian recipes (recipe nutrition is estimated from ingredients).
+  On Android, search and logging also work offline.
+- **AI assistant.** Ask about protein, swaps and meals in English, Hinglish or Hindi. Answers are nutrition estimates, not medical advice.
+- **Progress.** 7, 30 and 90-day trends for calories, protein, water and weight, plus a logging streak.
+- **Grocery list and pantry.** Built from your plan, minus what you already have.
+- **Units.** kg with height in feet/inches, or lb with height in inches.
+- **English + हिंदी.** The whole app in both languages, switchable any time.
+
+## Reminders and notifications
+
+- **iPhone / web app:** when you open the app, it asks once whether to turn on daily reminders. Tap **Haan, on karo** and
+  allow notifications. Default reminders: breakfast 9:00, water 11:00, lunch 13:30, water 16:00, workout 18:00, dinner 20:30.
+  Turn them off any time in **Settings → Reminders**. On iPhone, notifications need iOS 16.4 or newer and work only when
+  the app is opened from its Home Screen icon.
+- **Android app:** add your own meal, water and weigh-in reminders, with quiet hours, in **Settings → Reminders**
+  (off until you add one).
+
+## Privacy and security
+
+- **Your data is private to your account.** Every private table uses Row Level Security, so an account can only read
+  and change its own rows. This was checked with separate test accounts.
+- **No secret keys in the app or website.** Only the public, low-privilege client key ships with the app. The AI key
+  stays on the server.
+- **AI is behind login.** The assistant answers only signed-in users, with a daily limit per user.
+- **Web reminders store the minimum.** The reminder server keeps only your browser's push subscription and reminder
+  times, with no name or email.
+- **HTTPS with security headers** (Content-Security-Policy, no framing) on the web app.
+- **No ads, and your data is not sold.** Export your data or permanently delete your account from **Settings** at any time.
 
 ## Health disclaimer
 
-Desi Gym Diet gives general fitness and nutrition guidance. **It is not medical advice.** Calorie, protein and other targets
-are estimates, meant as guidance. If you are pregnant or breastfeeding, under 18, or have diabetes, kidney, heart or
-any other medical condition or an eating disorder, talk to a doctor or a registered dietitian before changing your diet.
+Desi Gym Diet gives general fitness and nutrition guidance. **It is not medical advice.** Targets are estimates. If you
+are pregnant or breastfeeding, under 18, or have diabetes, kidney, heart or any other medical condition or an eating
+disorder, talk to a doctor or a registered dietitian before changing your diet.
 
-## Privacy
+## Version
 
-Your data is private to your account. Every table in the database is locked with Row Level Security, so each
-account can only ever read and change its own data, and that was tested with two separate accounts before release.
-No ads, no tracking, and nothing is sold. You can export your data or permanently delete your account from **Settings** at any time.
+**v1.0.4** (current): AI assistant on, kg + ft/in or lb + in units, and a water goal based on body weight, workout time
+and hot days. Create an account with your email and a password and you go straight into setup.
+See [Releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases) for the full history.
 
-## Contact
+## Feedback
 
-Questions, feedback or a bug? Open an [issue](https://github.com/iashwani69-code/desi-gym-diet-app/issues) on this repository.
+Questions, feedback or a bug? Open an [issue](https://github.com/iashwani69-code/desi-gym-diet-app/issues).
 
 ---
 
 <p align="center">
-  <b>DESI GYM DIET™</b> · Crafted by <b>AkshayNagar</b><br>
-  <sub>© 2026 AkshayNagar. All rights reserved. The app and its source code are proprietary; see <a href="LICENSE">LICENSE</a>.</sub>
+  <b>DESI GYM DIET™</b> · Crafted by <b>Akshay Nagar</b><br>
+  <sub>© 2026 Akshay Nagar. All rights reserved. The app and its source code are proprietary; see <a href="LICENSE">LICENSE</a>.</sub>
 </p>
