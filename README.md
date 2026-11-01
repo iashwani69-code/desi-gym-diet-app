@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version 1.0.4" src="https://img.shields.io/badge/version-1.0.4-7A1538?style=for-the-badge"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version 1.0.5" src="https://img.shields.io/badge/version-1.0.5-7A1538?style=for-the-badge"></a>
   <img alt="Android 7.0+" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="iPhone web app" src="https://img.shields.io/badge/iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="English + Hindi" src="https://img.shields.io/badge/English%20%2B%20Hindi-D4AF5F?style=for-the-badge">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.4" height="56" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.4%20%C2%B7%2086%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.0.5" height="56" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.0.5%20%C2%B7%2087%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
   &nbsp;
   <a href="https://dgd-app.pages.dev/"><img alt="Open the iPhone web app" height="56" src="https://img.shields.io/badge/Open%20on%20iPhone-dgd--app.pages.dev-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
 </p>
@@ -49,7 +49,7 @@
 
 ## Download for Android
 
-**[⬇ Download DesiGymDiet.apk (v1.0.4, 86 MB)](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)** · Android 7.0 or newer · [all releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases)
+**[⬇ Download DesiGymDiet.apk (v1.0.5, 87 MB)](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)** · Android 7.0 or newer · [all releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases)
 
 1. Open the download link on your Android phone. Chrome saves `DesiGymDiet.apk`.
 2. Tap the downloaded file (or open it from **Files → Downloads**).
@@ -120,7 +120,8 @@ disorder, talk to a doctor or a registered dietitian before changing your diet.
 
 ## Version
 
-**v1.0.4** (current): AI assistant on, kg + ft/in or lb + in units, and a water goal based on body weight, workout time
+**v1.0.5** (current): an animated mascot, Dumbu the kettlebell, with a short tip per screen. Everything else is as in v1.0.4:
+AI assistant on, kg + ft/in or lb + in units, and a water goal based on body weight, workout time
 and hot days. Create an account with your email and a password and you go straight into setup.
 See [Releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases) for the full history.
 
