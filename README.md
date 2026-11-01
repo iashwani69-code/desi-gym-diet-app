@@ -25,6 +25,26 @@
 
 ---
 
+## iPhone / iOS (web app)
+
+<p align="center">
+  <a href="https://desi-gym-diet.sites.tab.bot/"><img alt="Open on iPhone" height="60" src="https://img.shields.io/badge/Open%20on%20iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
+</p>
+
+Desi Gym Diet now works on iPhone too, free, with no App Store needed: **[desi-gym-diet.sites.tab.bot](https://desi-gym-diet.sites.tab.bot/)**
+
+1. Open **[the link](https://desi-gym-diet.sites.tab.bot/)** in **Safari**.
+2. Tap **Share** (the square with the arrow).
+3. Tap **Add to Home Screen**.
+4. Open **Desi Gym Diet** from the new icon on your home screen.
+5. **Sign up**, or **log in with the same account you use on Android**. Your data syncs.
+
+<p align="center"><img src="assets/iphone_home.jpg" width="240" alt="Desi Gym Diet on iPhone"><br><sub>Home screen on iPhone</sub></p>
+
+> **On Android?** Keep using the APK above; the Android install steps are below.
+
+---
+
 ## Why Desi Gym Diet
 
 Most diet apps are built around foods you don't eat. **Desi Gym Diet** plans your gym diet with the food
