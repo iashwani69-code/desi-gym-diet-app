@@ -28,12 +28,12 @@
 ## iPhone / iOS (web app)
 
 <p align="center">
-  <a href="https://desi-gym-diet.sites.tab.bot/"><img alt="Open on iPhone" height="60" src="https://img.shields.io/badge/Open%20on%20iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
+  <a href="https://desi-gym-diet.pages.dev/"><img alt="Open on iPhone" height="60" src="https://img.shields.io/badge/Open%20on%20iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
 </p>
 
-Desi Gym Diet now works on iPhone too, free, with no App Store needed: **[desi-gym-diet.sites.tab.bot](https://desi-gym-diet.sites.tab.bot/)**
+Desi Gym Diet now works on iPhone too, free, with no App Store needed: **[desi-gym-diet.pages.dev](https://desi-gym-diet.pages.dev/)**
 
-1. Open **[the link](https://desi-gym-diet.sites.tab.bot/)** in **Safari**.
+1. Open **[the link](https://desi-gym-diet.pages.dev/)** in **Safari**.
 2. Tap **Share** (the square with the arrow).
 3. Tap **Add to Home Screen**.
 4. Open **Desi Gym Diet** from the new icon on your home screen.
