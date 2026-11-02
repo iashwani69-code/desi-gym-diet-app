@@ -120,6 +120,12 @@ disorder, talk to a doctor or a registered dietitian before changing your diet.
 
 ## Version
 
+**What's new in v1.0.10 (web / iPhone, live):**
+- **Apni bhasha chuno:** English, Hinglish ya हिंदी. Pehli baar app kholne pe chooser aata hai (English pehle se selected), aur har screen ke upar 🌐 button (EN / Hi / हि) se kabhi bhi badlo. Poora app, Damru ki tips aur jokes, field hints aur reminder notifications, sab aapki chuni bhasha mein.
+- **Naya look:** Reminders aur Profile pe warm gradient header, paani ka progress ring (calories, protein ke rings ke saath), aur khaali screens pe Damru.
+- Damru ab cards aur buttons se door rehta hai; profile pe email ek line mein.
+- Android ke liye v1.0.10 APK (step tracker ke saath) testing mein hai, jald aayega.
+
 **What's new in v1.0.9 (Android + web):**
 - **Personal reminders:** apna uthne-sone ka time, meals aur workout ka time khud set karo. Goal (fat loss / muscle gain / maintain) ke hisaab se default times pehle se bhare milte hain (research-based); paani har ghante, sirf jaagte waqt. Settings → Reminders. Settings sirf aapke phone pe save hoti hain.
 - **Damru v2:** har screen pe kaam ki tip, beech-beech mein desi jokes 😄, keyboard khulte hi Damru keyboard ke upar aa jata hai aur har field ke liye chhota hint deta hai (email, password, height, weight...). Kabhi kisi button ya field ke upar nahi baithta.
