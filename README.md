@@ -120,11 +120,12 @@ disorder, talk to a doctor or a registered dietitian before changing your diet.
 
 ## Version
 
-**What's new in v1.0.8:** Daily reminders + update pop-up. After you log in, the app asks once "Daily reminders on
-karein?" (say "Abhi nahi" and it asks again only after 3 days). Reminders for nashta, paani, lunch, workout and dinner
-come at set times, even when the app is closed; tapping one opens the right screen. Turn them on/off any time in
-Settings → Reminders. When a new version is out, the app shows "Naya update aaya hai" with an "Update karo" button
-(checked once a day). Everything else is as in v1.0.7.
+**What's new in v1.0.9 (Android + web):**
+- **Personal reminders:** apna uthne-sone ka time, meals aur workout ka time khud set karo. Goal (fat loss / muscle gain / maintain) ke hisaab se default times pehle se bhare milte hain (research-based); paani har ghante, sirf jaagte waqt. Settings → Reminders. Settings sirf aapke phone pe save hoti hain.
+- **Damru v2:** har screen pe kaam ki tip, beech-beech mein desi jokes 😄, keyboard khulte hi Damru keyboard ke upar aa jata hai aur har field ke liye chhota hint deta hai (email, password, height, weight...). Kabhi kisi button ya field ke upar nahi baithta.
+- Keyboard khulne pe screen ab upar khisakti hai, likhte waqt field dikhta rahe.
+
+Install over the old app; your data stays. v1.0.8 users: the app shows "Naya update aaya hai" by itself.
 See [Releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases) for the full history.
 
 ## Credits
