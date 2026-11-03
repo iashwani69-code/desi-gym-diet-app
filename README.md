@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version 1.1.0" src="https://img.shields.io/badge/version-1.1.0-7A1538?style=for-the-badge"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest"><img alt="Version 1.1.1" src="https://img.shields.io/badge/version-1.1.1-7A1538?style=for-the-badge"></a>
   <img alt="Android 7.0+" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="iPhone web app" src="https://img.shields.io/badge/iPhone-web%20app-0B0B0E?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="English, Hinglish, Hindi" src="https://img.shields.io/badge/English%20%C2%B7%20Hinglish%20%C2%B7%20%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-D4AF5F?style=for-the-badge">
@@ -17,12 +17,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.1.0" height="56" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.1.0%20%C2%B7%2088%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
+  <a href="https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk"><img alt="Download APK v1.1.1" height="56" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20APK-v1.1.1%20%C2%B7%2088%20MB-7A1538?style=for-the-badge&logo=android&logoColor=white&labelColor=4A1026"></a>
   &nbsp;
   <a href="https://dgd-app.pages.dev/"><img alt="Open the iPhone web app" height="56" src="https://img.shields.io/badge/Open%20on%20iPhone-dgd--app.pages.dev-0B0B0E?style=for-the-badge&logo=apple&logoColor=white&labelColor=4A1026"></a>
 </p>
 
 ---
+
+## What's new in v1.1.1
+
+- **One pop-up at a time** after a streak celebration, **no more crash on broken links**, and minor stability fixes.
 
 ## What's new in v1.1.0
 
@@ -91,7 +95,7 @@ Mascot art based on Bible Strong Avatar Lab by @_smontlouis (AGPL-3.0).
 
 ## Download for Android
 
-**[⬇ Download DesiGymDiet.apk (v1.1.0, 88 MB)](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)** · Android 7.0 or newer · [all releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases)
+**[⬇ Download DesiGymDiet.apk (v1.1.1, 88 MB)](https://github.com/iashwani69-code/desi-gym-diet-app/releases/latest/download/DesiGymDiet.apk)** · Android 7.0 or newer · [all releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases)
 
 1. Open the download link on your Android phone. Chrome saves `DesiGymDiet.apk`.
 2. Tap the downloaded file (or open it from **Files → Downloads**).
@@ -171,7 +175,7 @@ disorder, talk to a doctor or a registered dietitian before changing your diet.
 
 ## Version
 
-**Current: v1.1.0** (Android + web / iPhone). See "What's new in v1.1.0" above. Install the new APK over the old app;
+**Current: v1.1.1** (Android + web / iPhone). See "What's new in v1.1.1" above. Install the new APK over the old app;
 your login and data stay. Users of v1.0.8 and later see the "update available" pop-up in the app by themselves.
 
 See [Releases](https://github.com/iashwani69-code/desi-gym-diet-app/releases) for the full history.
